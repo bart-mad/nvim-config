@@ -6,4 +6,4 @@ Based on kickstart.nvim with added:
 - Treesiter.nvim
 - Hybrid line numbering
 
-  Work is progress... As always.. 
+  Work in progress... As always.. 
